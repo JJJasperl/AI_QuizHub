@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Common system files
+.DS_Store
+
+# Build output (if applicable)
+dist/
+build/

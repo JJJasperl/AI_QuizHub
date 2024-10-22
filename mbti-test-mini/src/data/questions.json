@@ -1,0 +1,152 @@
+[
+  {
+    "options": [
+      {
+        "result": "I",
+        "value": "Work alone",
+        "key": "A"
+      },
+      {
+        "result": "E",
+        "value": "Collaborate with others",
+        "key": "B"
+      }
+    ],
+    "title": "You usually prefer"
+  },
+  {
+    "options": [
+      {
+        "result": "J",
+        "value": "Prefer clear plans",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "More willing to improvise",
+        "key": "B"
+      }
+    ],
+    "title": "When planning activities"
+  },
+  {
+    "options": [
+      {
+        "result": "T",
+        "value": "Believe rules should be strictly followed",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "Believe rules should be flexible",
+        "key": "B"
+      }
+    ],
+    "title": "How do you view rules"
+  },
+  {
+    "options": [
+      {
+        "result": "E",
+        "value": "Often the one talking",
+        "key": "A"
+      },
+      {
+        "result": "I",
+        "value": "More inclined to listen",
+        "key": "B"
+      }
+    ],
+    "title": "In social situations"
+  },
+  {
+    "options": [
+      {
+        "result": "J",
+        "value": "Research before acting",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "Learn while doing",
+        "key": "B"
+      }
+    ],
+    "title": "When facing new challenges"
+  },
+  {
+    "options": [
+      {
+        "result": "S",
+        "value": "Focus on details and facts",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "Focus on concepts and imagination",
+        "key": "B"
+      }
+    ],
+    "title": "In daily life"
+  },
+  {
+    "options": [
+      {
+        "result": "T",
+        "value": "More based on logical analysis",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "More based on personal feelings",
+        "key": "B"
+      }
+    ],
+    "title": "When making decisions"
+  },
+  {
+    "options": [
+      {
+        "result": "S",
+        "value": "Prefer structure and routine",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "Prefer freedom and flexibility",
+        "key": "B"
+      }
+    ],
+    "title": "Regarding daily arrangements"
+  },
+  {
+    "options": [
+      {
+        "result": "P",
+        "value": "First consider possibilities",
+        "key": "A"
+      },
+      {
+        "result": "J",
+        "value": "First consider consequences",
+        "key": "B"
+      }
+    ],
+    "title": "When facing problems"
+  },
+  {
+    "options": [
+      {
+        "result": "T",
+        "value": "Time is a valuable resource",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "Time is a flexible concept",
+        "key": "B"
+      }
+    ],
+    "title": "How do you view time"
+  }
+]

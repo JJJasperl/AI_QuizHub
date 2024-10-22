@@ -1,0 +1,178 @@
+[
+  {
+    "resultProp": [
+      "I",
+      "S",
+      "T",
+      "J"
+    ],
+    "resultDesc": "Loyal and reliable, recognized as practical and detail-oriented.",
+    "resultPicture": "icon_url_istj",
+    "resultName": "ISTJ (Logistician)"
+  },
+  {
+    "resultProp": [
+      "I",
+      "S",
+      "F",
+      "J"
+    ],
+    "resultDesc": "Kind and caring, characterized by empathy and responsibility.",
+    "resultPicture": "icon_url_isfj",
+    "resultName": "ISFJ (Defender)"
+  },
+  {
+    "resultProp": [
+      "I",
+      "N",
+      "F",
+      "J"
+    ],
+    "resultDesc": "Idealistic with deep insights, skilled at understanding others.",
+    "resultPicture": "icon_url_infj",
+    "resultName": "INFJ (Advocate)"
+  },
+  {
+    "resultProp": [
+      "I",
+      "N",
+      "T",
+      "J"
+    ],
+    "resultDesc": "Independent thinker, skilled at planning and achieving goals, rational and decisive.",
+    "resultPicture": "icon_url_intj",
+    "resultName": "INTJ (Architect)"
+  },
+  {
+    "resultProp": [
+      "I",
+      "S",
+      "T",
+      "P"
+    ],
+    "resultDesc": "Calm and self-reliant, good at solving problems and skilled at practical tasks.",
+    "resultPicture": "icon_url_istp",
+    "resultName": "ISTP (Virtuoso)"
+  },
+  {
+    "resultProp": [
+      "I",
+      "S",
+      "F",
+      "P"
+    ],
+    "resultDesc": "Artistic and sensitive, values personal space and freedom.",
+    "resultPicture": "icon_url_isfp",
+    "resultName": "ISFP (Artist)"
+  },
+  {
+    "resultProp": [
+      "I",
+      "N",
+      "F",
+      "P"
+    ],
+    "resultDesc": "Idealistic, creative, known for empathy and understanding.",
+    "resultPicture": "icon_url_infp",
+    "resultName": "INFP (Mediator)"
+  },
+  {
+    "resultProp": [
+      "I",
+      "N",
+      "T",
+      "P"
+    ],
+    "resultDesc": "Clear thinker, curious, independent, and rational.",
+    "resultPicture": "icon_url_intp",
+    "resultName": "INTP (Logician)"
+  },
+  {
+    "resultProp": [
+      "E",
+      "S",
+      "T",
+      "P"
+    ],
+    "resultDesc": "Daring, adventurous, quick thinker, and decisive in action.",
+    "resultPicture": "icon_url_estp",
+    "resultName": "ESTP (Entrepreneur)"
+  },
+  {
+    "resultProp": [
+      "E",
+      "S",
+      "F",
+      "P"
+    ],
+    "resultDesc": "Enthusiastic, sociable, loves life, and helpful.",
+    "resultPicture": "icon_url_esfp",
+    "resultName": "ESFP (Entertainer)"
+  },
+  {
+    "resultProp": [
+      "E",
+      "N",
+      "F",
+      "P"
+    ],
+    "resultDesc": "Imaginative, passionate, good at inspiring others' energy and potential.",
+    "resultPicture": "icon_url_enfp",
+    "resultName": "ENFP (Campaigner)"
+  },
+  {
+    "resultProp": [
+      "E",
+      "N",
+      "T",
+      "P"
+    ],
+    "resultDesc": "Creative, good at debate, challenges tradition, loves exploring new fields.",
+    "resultPicture": "icon_url_entp",
+    "resultName": "ENTP (Inventor)"
+  },
+  {
+    "resultProp": [
+      "E",
+      "S",
+      "T",
+      "J"
+    ],
+    "resultDesc": "Practical and decisive, good at organizing and managing, values efficiency and goals.",
+    "resultPicture": "icon_url_estj",
+    "resultName": "ESTJ (Executive)"
+  },
+  {
+    "resultProp": [
+      "E",
+      "S",
+      "F",
+      "J"
+    ],
+    "resultDesc": "Friendly and warm-hearted, known for patience and teamwork.",
+    "resultPicture": "icon_url_esfj",
+    "resultName": "ESFJ (Consul)"
+  },
+  {
+    "resultProp": [
+      "E",
+      "N",
+      "F",
+      "J"
+    ],
+    "resultDesc": "Caring and enthusiastic, good at helping others, with leadership and social skills.",
+    "resultPicture": "icon_url_enfj",
+    "resultName": "ENFJ (Protagonist)"
+  },
+  {
+    "resultProp": [
+      "E",
+      "N",
+      "T",
+      "J"
+    ],
+    "resultDesc": "Confident and decisive, with leadership skills, good at planning and executing goals.",
+    "resultPicture": "icon_url_entj",
+    "resultName": "ENTJ (Commander)"
+  }
+]
